@@ -3,7 +3,7 @@ const fs = require('fs').promises;
 
 const banner = `
 =======================================
-    AIDA AUTO BOT | AIRDROP INSIDER
+    AIDA AUTO BOT | KNAWMEN 
 =======================================
 `;
 
