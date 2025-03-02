@@ -1,15 +1,14 @@
 AIDA AUTO TASK BOT
 
-Auto Complete all task exclude Invite Friends
-Support Multi Accounts
+Auto Complete all task 
 
-Use Access Token :
-
+cari access token :
 F12 - Aplication - Local Storage - Access Token
 
 npm install axios
 
 nano token.txt
+
 isi token dari local storage
 
 Run :
